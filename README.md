@@ -59,4 +59,4 @@
 
 -Gain real production-level understanding
 
--CRA is great for speed — this approach is for mastery.
+-CRA is great for speed, this approach is for mastery.
