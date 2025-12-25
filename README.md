@@ -3,7 +3,7 @@
 **This project focuses on understanding how React, Node, Express, and MongoDB work together, without relying on heavy scaffolding tools.**
 
 
-#Tech Stack
+# Tech Stack
 
 -Frontend: React (no CRA), React Router
 
